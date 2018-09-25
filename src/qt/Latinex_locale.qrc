@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/Latinex_bg.qm</file>
+        <file alias="ca">locale/Latinex_ca.qm</file>
+        <file alias="cs">locale/Latinex_cs.qm</file>
+        <file alias="da">locale/Latinex_da.qm</file>
+        <file alias="de">locale/Latinex_de.qm</file>
+        <file alias="en">locale/Latinex_en.qm</file>
+        <file alias="en_US">locale/Latinex_en_US.qm</file>
+        <file alias="es">locale/Latinex_es.qm</file>
+        <file alias="fi">locale/Latinex_fi.qm</file>
+        <file alias="fr_FR">locale/Latinex_fr_FR.qm</file>
+        <file alias="it">locale/Latinex_it.qm</file>
+        <file alias="ja">locale/Latinex_ja.qm</file>
+        <file alias="ko_KR">locale/Latinex_ko_KR.qm</file>
+        <file alias="nl">locale/Latinex_nl.qm</file>
+        <file alias="pl">locale/Latinex_pl.qm</file>
+        <file alias="pt">locale/Latinex_pt.qm</file>
+        <file alias="pt_BR">locale/Latinex_pt_BR.qm</file>
+        <file alias="ro_RO">locale/Latinex_ro_RO.qm</file>
+        <file alias="ru">locale/Latinex_ru.qm</file>
+        <file alias="sk">locale/Latinex_sk.qm</file>
+        <file alias="sv">locale/Latinex_sv.qm</file>
+        <file alias="uk">locale/Latinex_uk.qm</file>
+        <file alias="zh_CN">locale/Latinex_zh_CN.qm</file>
+        <file alias="zh_TW">locale/Latinex_zh_TW.qm</file>
+    </qresource>
+</RCC>

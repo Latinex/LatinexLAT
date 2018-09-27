@@ -126,7 +126,7 @@ public:
         genesis.nVersion = 1;
 		genesis.nTime = 1537779297;
 		genesis.nBits = 504365040;
-		genesis.nNonce = 0;
+		genesis.nNonce = 492906;
 
         hashGenesisBlock = genesis.GetHash();
 		//printf("genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
